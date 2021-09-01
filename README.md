@@ -1,5 +1,5 @@
 # Medcare
-create a complete responsive hospital / medical store / medical website design template using html css and vanilla javascript tutorial for beginners.
+create a complete responsive hospital / medical store / medical website design template using html css and vanilla javascript.
 
 the main feature of this website are:
 
